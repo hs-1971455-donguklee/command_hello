@@ -1,2 +1,5 @@
 this is a pracitce.
+
+Forcommand line git tutorial
+practice10.txt file is edited.
 this is a second practice.
